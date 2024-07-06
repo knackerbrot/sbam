@@ -1,7 +1,7 @@
 
 [![codecov](https://codecov.io/gh/atbore-phx/sbam/graph/badge.svg?token=0fgSvHFiTx)](https://codecov.io/gh/atbore-phx/sbam)
 
-# sbam - Smart Battery Advanced Manager.
+# sbam - Drew's Smart Battery Advanced Manager.
 Charge Fronius battery using SolCast weather forecast.
 
 ## Introduction
